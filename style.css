@@ -681,6 +681,7 @@ footer > .container {
   }
   .overlay {
     height: 74%;
+    border-radius: 15px;
   }
   .add {
     font-size: 0.8em;
