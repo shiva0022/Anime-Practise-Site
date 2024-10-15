@@ -735,13 +735,16 @@ footer > .container {
     height: 74%;
     border-radius: 15px;
   }
+  .band {
+    margin-top: 24px;
+  }
   .band h2, .subs-dubs {
-    left: 18%;
+    left: 20%;
     font-size: 1.2rem;
   }
   .band .subs-dubs {
     top: 16%;
-    left: 17%;
+    left: 19%;
   }
   .band p {
     display: none;
