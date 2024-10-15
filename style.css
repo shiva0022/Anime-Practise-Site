@@ -404,7 +404,7 @@ main > h1 {
   top: -4px;
 }
 
-.band h2, .subs-dubs {
+.band h2, .band .subs-dubs {
   position: absolute;
   left: 12%;
   top: 10%;
@@ -738,7 +738,7 @@ footer > .container {
   .band {
     margin-top: 24px;
   }
-  .band h2, .subs-dubs {
+  .band h2, .band .subs-dubs {
     left: 20%;
     font-size: 1.2rem;
   }
