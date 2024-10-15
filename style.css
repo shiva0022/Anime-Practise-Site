@@ -665,20 +665,22 @@ footer > .container {
   .layout-card {
     width: 150px;
     height: 300px;
+    gap: 12px;
   }
   .layout > .cards {
     grid-template-columns: 1fr 1fr;
   }
   .layout-card > a > img {
-    height: 210px;
+    height: 222px;
     width: 100%;
+    border-radius: 15px;
   }
   .layout-card > h4 {
     font-size: 1em;
     margin: 0px 2px;
   }
   .overlay {
-    height: 70%;
+    height: 74%;
   }
   .add {
     font-size: 0.8em;
